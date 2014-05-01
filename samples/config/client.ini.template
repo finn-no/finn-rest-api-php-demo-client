@@ -1,0 +1,13 @@
+; This is a configuration file template
+; Please copy this file into another client.ini file: "cp client.ini.template client.ini" and enter your private API-credentials
+; Comments start with ';', as in php.ini
+; ---------------------------------------------------------------------
+
+; api-key as provided by FINN.no
+apiKey = <your_api_key>
+
+; If your client is related to a specific FINN orgId, enter the orgId as provided by FINN.no
+orgId = <your_orgId>
+
+; The user-agent is a readable ID of you as an API-client, use the domain name of your site, eg: userAgent = www.mysite.com
+userAgent = <your_domain_name>
