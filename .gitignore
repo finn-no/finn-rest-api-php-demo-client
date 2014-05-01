@@ -1,0 +1,8 @@
+# Project
+#NB! Keep client.ini private
+client.ini
+
+# Intellij
+.idea/
+*.iml
+*.iws
